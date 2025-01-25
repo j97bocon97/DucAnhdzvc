@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Văn Thành IOS",
-         Animation = "Script Tổng Hợp Ver1"
+         Title = "Đức Anh dz",
+         Animation = "Script tổng hợp đanh làm"
          },
         Key = {
         KeySystem = false,
@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=89284864928775",
+       Image = "http://www.roblox.com/asset/?id=81408342004074",
        Size = {40, 40},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
